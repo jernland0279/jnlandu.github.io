@@ -1,7 +1,7 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: Deploying ML models with R and Shiny R
+summary: This is the firt note on a series of tutorials on advanced R. We try to illustrate the use if Shiny R and how can R be used efficiently to deploy ML models.
+date: 2024-06-08
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
