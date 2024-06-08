@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Mr
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 'Ma-bya-la '
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jeremie
+last_name: Nlandu-Mabiala
 
 # Status emoji
 status:
@@ -20,69 +20,73 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: African Masters in Machine Intelligence
+    url: https://aimsammi.org/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jeremie@aims.ac.za'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/ValentinMabiala
+  # - icon: brands/instagram
+    # url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/jnlandu
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  # - icon: academicons/google-scholar
+    # url: https://scholar.google.com/
+  # - icon: academicons/orcid
+    # url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Functional Data Analysis
+  - Statistics
+  - Mathematics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Mathematical Sciences
+    institution: Stellenbosch University/ AIMS SA
+    date_start: 2023-01-01
+    date_end: 2024-01-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      An essay on _Gaussian Processes and Multivariate Functional Data Analysis_. Supervised by [Prof Sophie Dabo](https://aims.ac.za/researcher/sophie-dabo/). Presented at the African Institute for Mathenatical Sciences (South Africa).
     button:
-      text: 'Read Thesis'
+      text: 'Read The Abstract'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Honours in Mathematical Sciences/ Functional Analysis
+    institution: University of Kinshasa
+    date_start: 2015-10-15
+    date_end: 2020-12-02
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.3/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      -  Real and Complex Analysis, Functional Analysis, General and Algebraic Topology
+      - Differential Geometry, Galois Theory, Multi-objective programming, 
+      - Game theory, a short chapter in  Operational Research Course
+      - Mathematical Statistics, Probability, Differential Equations
+      - Data base Management System, Information Systems, etc.
+  # - area: BSc Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -128,7 +132,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Hiking, 
         description: ''
         percent: 60
         icon: person-simple-walk
@@ -144,10 +148,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: French
+    percent: 100
+  - name: Lingala
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -182,5 +186,4 @@ awards:
 ---
 
 ## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jeremie N. Mabiala (pronounced Ma-Bya-la) is a graduate student in Machine Intelligence at the African Masters in Machine Intelligence (AMMI). He holds a MSc in Mathematical Sciences (Functional Data Analysis). He worked as a Teaching-Assitant for about two years at the Department of Mathematics, Statistics, and Computer Sciences in the University of Kinshasa. His research interests include AI, Machine Learning, robotics, AI on edge (esp. Mobile), maths and technology education for africans.
